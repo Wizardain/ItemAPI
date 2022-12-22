@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ItemAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ItemAPI_jar</output-path>
+    <root id="archive" name="ItemAPI.jar">
+      <element id="module-output" name="ItemAPI" />
+    </root>
+  </artifact>
+</component>

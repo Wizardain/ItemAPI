@@ -1,0 +1,4 @@
+name: ItemAPI
+author: Kitrile
+version: 1.0.0
+main: net.item.minecraft.ItemAPI
